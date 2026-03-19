@@ -1,7 +1,7 @@
 [[cors]]
 allowed_origins = "*"
-allowed_method = ["GET", "POST"]
-allowed_header = "*"
+allowed_methods = ["GET", "POST"]
+allowed_headers = "*"
 
 [[headers]]
 for = "**/*.{woff2|woff|svg|ttf|otf|eot|js|css}"
