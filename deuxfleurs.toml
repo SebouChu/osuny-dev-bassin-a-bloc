@@ -55,6 +55,10 @@ from = "/2026/02/index.html"
 to = "/agenda/2026/02/"
 
 [[redirects]]
+from = "/agenda/2026/contest-arkose-saint-denis/index.html"
+to = "https://osuny-dev-arkose.netlify.app/fr/agenda/2026/contest-arkose-saint-denis/"
+
+[[redirects]]
 from = "/actualites/2026-05-02-coupe-du-monde-descalade-2026-le-guide-complet-du-circuit-international/index.html"
 to = "https://osuny-dev-arkose.netlify.app/fr/actualites/2026-05-02-coupe-du-monde-descalade-2026-le-guide-complet-du-circuit-international/"
 
@@ -68,7 +72,7 @@ to = "/agenda/2026/05/"
 
 [[redirects]]
 from = "/2026/contest-arkose-saint-denis/index.html"
-to = "/agenda/2026/contest-arkose-saint-denis/"
+to = ""
 
 [[redirects]]
 from = "/2026/index.html"
