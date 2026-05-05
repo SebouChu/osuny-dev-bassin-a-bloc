@@ -23,10 +23,6 @@ from = "/2026/01/index.html"
 to = "/agenda/2026/01/"
 
 [[redirects]]
-from = "/agenda/2026/world-climbing-series-wujiang-2026/lead-semi-finals-and-finals/index.html"
-to = "https://osuny-dev-arkose.netlify.app/fr/agenda/2026/world-climbing-series-wujiang-2026/lead-semi-finals-and-finals/"
-
-[[redirects]]
 from = "/2026/12/index.html"
 to = "/agenda/2026/12/"
 
@@ -51,24 +47,12 @@ from = "/2026/04/index.html"
 to = "/agenda/2026/04/"
 
 [[redirects]]
-from = "/agenda/2026/world-climbing-series-wujiang-2026/index.html"
-to = "https://osuny-dev-arkose.netlify.app/fr/agenda/2026/world-climbing-series-wujiang-2026/"
-
-[[redirects]]
 from = "/2026/03/index.html"
 to = "/agenda/2026/03/"
 
 [[redirects]]
 from = "/2026/02/index.html"
 to = "/agenda/2026/02/"
-
-[[redirects]]
-from = "/agenda/2026/world-climbing-series-wujiang-2026/speed-qualifications-and-finals/index.html"
-to = "https://osuny-dev-arkose.netlify.app/fr/agenda/2026/world-climbing-series-wujiang-2026/speed-qualifications-and-finals/"
-
-[[redirects]]
-from = "/agenda/2026/contest-arkose-saint-denis/index.html"
-to = "https://osuny-dev-arkose.netlify.app/fr/agenda/2026/contest-arkose-saint-denis/"
 
 [[redirects]]
 from = "/actualites/2026-05-02-coupe-du-monde-descalade-2026-le-guide-complet-du-circuit-international/index.html"
@@ -84,7 +68,7 @@ to = "/agenda/2026/05/"
 
 [[redirects]]
 from = "/2026/contest-arkose-saint-denis/index.html"
-to = ""
+to = "/agenda/2026/contest-arkose-saint-denis/"
 
 [[redirects]]
 from = "/2026/index.html"
