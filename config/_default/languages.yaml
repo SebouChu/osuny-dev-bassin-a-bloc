@@ -4,8 +4,8 @@ fr:
   title: >-
     Bassin à Bloc
   contentDir: content/fr
-  languageCode: fr
-  languageName: French
+  locale: fr
+  label: French
   buildFuture: true
   params:
     contact_details:
