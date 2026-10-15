@@ -57,6 +57,7 @@ children:
   - "exhibitions/_index.html"
   - "persons/_index.html"
   - "organizations/_index.html"
+  - "files/_index.html"
 child_pages:
   - permalink: "/actualites/"
     path: "/posts"
@@ -78,6 +79,10 @@ child_pages:
     path: "/organizations"
     slug: "organisations"
     file: "content/fr/organizations/_index.html"
+  - permalink: ""
+    path: "/files"
+    slug: "fichiers"
+    file: "content/fr/files/_index.html"
 
 
 header_cta:
@@ -123,57 +128,6 @@ contents:
       quantity: 0
 
 
-  - kind: block
-    template: agenda
-    title: >-
-      Derniers événements
-    slug: >-
-      derniers-evenements
-    ranks:
-      base: 2
-      self: 2
-      children: 3
-    top:
-      active: true
-      title: 
-        value: >-
-          Derniers événements
-        heading: 2
-        link: "/agenda/"
-
-    data:
-      mode: all
-      kinds:
-        parent: false
-        child: true
-        recurring: true
-      options:
-        categories: false
-        dates: true
-        image: true
-        subtitle: true
-        summary: true
-        status: false
-
-      layout: grid
-
-
-      title_link: "/agenda/"
-      events:
-        - permalink: "/agenda/2026/contest-arkose-saint-denis/"
-          path: "/events/2026/05/30-14-00-contest-arkose-saint-denis"
-          slug: "contest-arkose-saint-denis"
-          file: "content/fr/events/2026/05/30-14-00-contest-arkose-saint-denis.html"
-          name: >-
-            Contest Arkose Saint-Denis
-        - permalink: "/agenda/2026/contest-arkose-saint-denis/"
-          path: "/events/2026/05/30-20-00-contest-arkose-saint-denis"
-          slug: "contest-arkose-saint-denis"
-          file: "content/fr/events/2026/05/30-20-00-contest-arkose-saint-denis.html"
-          name: >-
-            Contest Arkose Saint-Denis
-
-      quantity: 2
 
 
 ---
